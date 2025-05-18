@@ -1,2 +1,2 @@
 # readme file 
-thsi is readme file for localrepo
+this is readme file for localrepo
